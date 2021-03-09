@@ -1,4 +1,4 @@
-# CSharp on Fire :Fire:
+# CSharp on Fire :fire:
 
 An simple CRUD API using .NET Core and Entity ORM to learn csharp development
 
